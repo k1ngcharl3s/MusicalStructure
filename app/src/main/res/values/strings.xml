@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MusicalStructureApp</string>
+    <string name="category_tupac">Tupac</string>
+    <string name="category_christinaaguilera">Christina Aguilera</string>
+    <string name="category_evanescence">Evanescence</string>
+    <string name="category_isleybrothers">Isley Brothers</string>
+    <string name="image">image</string>
+</resources>
